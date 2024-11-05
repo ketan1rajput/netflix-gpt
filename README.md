@@ -15,6 +15,8 @@
 - Created Redux Store with user slice
 - Implemented Sign Out
 - Update Profile API
+- Bug Fix - Sign Up user, display Name 
+- Bug Fix - if user is not logged in Redirect/browse to login page and vice-versa
 
 # Features 
 - Login/sign up page
