@@ -29,7 +29,7 @@
 - Update store with trailer video data
 - Embedded the Youtube video and make it autoplay and mute
 - Tailwind classes to make it look awesome
-
+- Build Secondary Components
 
 # Features
 
